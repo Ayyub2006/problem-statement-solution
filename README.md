@@ -1,4 +1,4 @@
-# EduBridge - AI-Powered Learning Platform
+# EduConnect - AI-Powered Learning Platform
 
 ## 🎯 Problem Statement
 
